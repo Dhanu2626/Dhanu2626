@@ -1,0 +1,22 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+          <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+                  <stop offset="0%" stop-color="#0A0B0D"/>
+                  <stop offset="100%" stop-color="#111318"/>
+          </linearGradient>
+    </defs>
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="4" fill="#6366F1"/>
+    <text x="60" y="140" font-family="Inter, sans-serif" font-size="48" font-weight="700" fill="#F5F6F7">DHANUSH LABS</text>
+    <text x="60" y="178" font-family="Inter, sans-serif" font-size="18" fill="#9CA3AF">Engineering systems that watch, verify, and explain financial data</text>
+    <text x="1140" y="50" font-family="JetBrains Mono, monospace" font-size="13" fill="#6B7280" text-anchor="end">[ ENGINEERING PORTFOLIO ]</text>
+    <g stroke-width="1.5" fill="none" opacity="0.9">
+          <line x1="1055" y1="230" x2="1000" y2="180" stroke="#EF4444"/>
+          <line x1="1055" y1="230" x2="1055" y2="170" stroke="#14B8A6"/>
+          <line x1="1055" y1="230" x2="1110" y2="180" stroke="#F59E0B"/>
+          <circle cx="1055" cy="230" r="9" fill="#6366F1" stroke="none"/>
+          <circle cx="1000" cy="180" r="6" fill="none" stroke="#EF4444"/>
+          <circle cx="1055" cy="170" r="6" fill="none" stroke="#14B8A6"/>
+          <circle cx="1110" cy="180" r="6" fill="none" stroke="#F59E0B"/>
+    </g>
+</svg>
